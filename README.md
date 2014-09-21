@@ -4,13 +4,9 @@ Course-Project
 Getting and cleaning Data
 
 
-Course-Project
-==============
-
-Getting and cleaning Data
 
 
-The problem posted consited of the following : 
+The problem posted consisted of the following : 
 
 
  You should create one R script called run_analysis.R that does the following. 
